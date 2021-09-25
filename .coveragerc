@@ -1,8 +1,8 @@
 [run]
-source = project_name
+source = lermen_api
 
 [report]
 omit =
     */python?.?/*
     */site-packages/nose/*
-    project_name/__main__.py
+    lermen_api/__main__.py
